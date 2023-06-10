@@ -1,0 +1,13 @@
+.box{
+    border: solid rgb(24, 22, 22) 5px;
+    padding: 55px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.one{
+    color: darkblue;
+}
+.two{
+    color: darkblue;
+}
